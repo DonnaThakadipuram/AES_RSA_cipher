@@ -1,3 +1,8 @@
+#Name: Donna Thakadipuram
+#Date: 09/23/2023
+#Description: Bob receives encrypted messages from Alice and decrypts them.
+
+
 from Cryptodome.Cipher import AES
 from Cryptodome.Cipher import PKCS1_OAEP
 from Cryptodome.PublicKey import RSA
