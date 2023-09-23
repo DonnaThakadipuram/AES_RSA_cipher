@@ -1,3 +1,8 @@
+#Name: Donna Thakadipuram
+#Date: 09/23/2023
+#Decription: Alice encrypts messages using AES and RSA and saves them into a file so Bob can decrypt and read them.
+
+
 from Cryptodome.Cipher import AES
 from Cryptodome.PublicKey import RSA
 from Cryptodome.Random import get_random_bytes
